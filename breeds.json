@@ -1,0 +1,1806 @@
+[
+  {
+    "en":"Affenpinscher",
+    "es":"Affenpinscher"
+  },
+  {
+    "en":"Afgan Hound",
+    "es":"Galgo Afgano"
+  },
+  {
+    "en":"Aidi / Chien de l'Atlas",
+    "es":"Aïdi / Perro del Atlas"
+  },
+  {
+    "en":"Airedale Terrier",
+    "es":"Airdale Terrier"
+  },
+  {
+    "en":"Akbash",
+    "es":"Akbash"
+  },
+  {
+    "en":"Akita Inu",
+    "es":"Akita Inu"
+  },
+  {
+    "en":"Alaskan Klee Kai",
+    "es":"Alaskan Klee Kai"
+  },
+  {
+    "en":"Alaskan Malamute",
+    "es":"Alaskan Malamute"
+  },
+  {
+    "en":"Alpine Dachsbracke",
+    "es":"Tejonero Alpino"
+  },
+  {
+    "en":"American Akita",
+    "es":"Akita Americano"
+  },
+  {
+    "en":"American Bulldog",
+    "es":"Bulldog Americano"
+  },
+  {
+    "en":"American Cocker Spaniel",
+    "es":"Cocker Spaniel Americano"
+  },
+  {
+    "en":"American Eskimo Dog",
+    "es":"Perro Esquimal Americano"
+  },
+  {
+    "en":"American Foxhound",
+    "es":"Foxhound Americano"
+  },
+  {
+    "en":"American Hairless Terrier",
+    "es":"Terrier Americano sin pelo"
+  },
+  {
+    "en":"American Pit Bull Terrier",
+    "es":"Pitbull Terrier Americano"
+  },
+  {
+    "en":"American Staffordshire Terrier",
+    "es":"Staffordshire Terrier Americano"
+  },
+  {
+    "en":"American Water Spaniel",
+    "es":"Perro de Agua Americano"
+  },
+  {
+    "en":"American-English Coonhound",
+    "es":"Coonhound Angloamericano"
+  },
+  {
+    "en":"Anatolian Shepher Dog",
+    "es":"Pastor de Anatolia / Karabash"
+  },
+  {
+    "en":"Andalusian Rat-Hunting Dog",
+    "es":"Ratonero Bodeguero Andaluz"
+  },
+  {
+    "en":"Anglo-Français de Petite Vénerie",
+    "es":"Sabueso Anglo-Francés Mediano"
+  },
+  {
+    "en":"Appenzell Cattle Dog",
+    "es":"Boyero de Appenzell"
+  },
+  {
+    "en":"Argentine Dogo",
+    "es":"Dogo Argentino"
+  },
+  {
+    "en":"Ariege Pointer",
+    "es":"Braco de Ariège"
+  },
+  {
+    "en":"Ariegeois",
+    "es":"Ariegeois"
+  },
+  {
+    "en":"Armant / Egyptian Sheepdog",
+    "es":"Armant / Pastor Egipcio"
+  },
+  {
+    "en":"Armenian Gampr",
+    "es":"Gampr Armenio"
+  },
+  {
+    "en":"Artesian-Norman Basset",
+    "es":"Basset Artesiano de Normandía"
+  },
+  {
+    "en":"Artois Hound",
+    "es":"Sabueso Artesiano / Perro de Artois"
+  },
+  {
+    "en":"Australian Cattle Dog",
+    "es":"Pastor Ganadero Australiano"
+  },
+  {
+    "en":"Australian Kelpie",
+    "es":"Kelpie Australiano"
+  },
+  {
+    "en":"Australian Shepherd Dog",
+    "es":"Pastor Australiano"
+  },
+  {
+    "en":"Australian Silky Terrier",
+    "es":"Silky Terrier Australiano"
+  },
+  {
+    "en":"Australian Stumpy Tail Cattle Dog",
+    "es":"Boyero Australiano"
+  },
+  {
+    "en":"Australian Terrier",
+    "es":"Terrier Australiano"
+  },
+  {
+    "en":"Austrian Black and Tan Hound",
+    "es":"Sabueso Austriaco"
+  },
+  {
+    "en":"Austrian Pinscher",
+    "es":"Pinscher Austriaco"
+  },
+  {
+    "en":"Auvergne Pointer",
+    "es":"Braco de Auvernia"
+  },
+  {
+    "en":"Azawakh",
+    "es":"Azawakh"
+  },
+  {
+    "en":"Bakharwal / Kashmir Sheepdog",
+    "es":"Bakharwal / Pastor de Cachemira"
+  },
+  {
+    "en":"Barbet / French Water Dog",
+    "es":"Barbet / Perro de Agua Francés"
+  },
+  {
+    "en":"Basenji",
+    "es":"Basenji"
+  },
+  {
+    "en":"Basque Shepher Dog",
+    "es":"Pastor Vasco"
+  },
+  {
+    "en":"Basset Hound",
+    "es":"Basset Hound"
+  },
+  {
+    "en":"Bavarian Mountain Hound",
+    "es":"Sabueso de Sangre de Montaña"
+  },
+  {
+    "en":"Beagle",
+    "es":"Beagle"
+  },
+  {
+    "en":"Beagle-Harrier",
+    "es":"Beagle Harrier"
+  },
+  {
+    "en":"Bearded Collie",
+    "es":"Bearded Collie / Collie Barbudo"
+  },
+  {
+    "en":"Beauceron / Beauce Shepherd Dog",
+    "es":"Beauceron / Pastor de Beauce"
+  },
+  {
+    "en":"Bedlington Terrier",
+    "es":"Bedlington Terrier"
+  },
+  {
+    "en":"Belgian Shepherd Dog Groenendael",
+    "es":"Pastor Belga Groenendael"
+  },
+  {
+    "en":"Belgian Shepherd Dog Laekenois",
+    "es":"Pastor Belga Laekenois"
+  },
+  {
+    "en":"Belgian Shepherd Dog Malinois",
+    "es":"Pastor Belga Malinois"
+  },
+  {
+    "en":"Belgian Shepherd Dog Tervuren",
+    "es":"Pastor Belga de Tervueren"
+  },
+  {
+    "en":"Bergamasco Shepherd Dog",
+    "es":"Bergamasco"
+  },
+  {
+    "en":"Bernese Mountain Dog",
+    "es":"Boyero de Berna"
+  },
+  {
+    "en":"Bichon Bolognese",
+    "es":"Bichón Boloñés"
+  },
+  {
+    "en":"Bichon Frisé",
+    "es":"Bichón Frisé"
+  },
+  {
+    "en":"Billy",
+    "es":"Billy"
+  },
+  {
+    "en":"Black and Tan Coonhound",
+    "es":"Coonhound Negro y Fuego"
+  },
+  {
+    "en":"Black and Tan Virginia FoxHound",
+    "es":"Foxhound Negro y Fuego de Virginia"
+  },
+  {
+    "en":"Black Norwegian Elkhound",
+    "es":"Elkhound Noruego Negro / Cazador de Alces Noruego Negro"
+  },
+  {
+    "en":"Black Russian Terrier",
+    "es":"Terrier Ruso Negro"
+  },
+  {
+    "en":"Blackmouth Cur",
+    "es":"Blackmouth Cur"
+  },
+  {
+    "en":"Bloodhound",
+    "es":"Perro de San Huberto"
+  },
+  {
+    "en":"Blue Gascony Basset",
+    "es":"Basset Azul de Gascuña"
+  },
+  {
+    "en":"Blue Gascony Griffon",
+    "es":"Grifón Azul de Gascuña"
+  },
+  {
+    "en":"Blue Lacy ",
+    "es":"Blue Lacy"
+  },
+  {
+    "en":"Blue Picardy Spaniel",
+    "es":"Spaniel Azul de Picardía"
+  },
+  {
+    "en":"Bluetick Coonhound",
+    "es":"Bluetick Coonhound"
+  },
+  {
+    "en":"Boerboel",
+    "es":"Boerboel"
+  },
+  {
+    "en":"Bohemian Shepherd Dog",
+    "es":"Pastor Bohemio"
+  },
+  {
+    "en":"Bohemian wire-haired Pointing Griffon",
+    "es":"Grifón de muestra bohemio de pelo duro"
+  },
+  {
+    "en":"Bordeaux Mastiff",
+    "es":"Dogo de Burdeos"
+  },
+  {
+    "en":"Border Collie",
+    "es":"Border Collie"
+  },
+  {
+    "en":"Border Terrier",
+    "es":"Border Terrier"
+  },
+  {
+    "en":"Borzoi",
+    "es":"Borzoi / Galgo Ruso"
+  },
+  {
+    "en":"Bosnian Coarse-haired Hound",
+    "es":"Sabueso Bosnio"
+  },
+  {
+    "en":"Boston Terrier",
+    "es":"Boston Terrier"
+  },
+  {
+    "en":"Bourbonnais Pointer",
+    "es":"Braco de Borbón"
+  },
+  {
+    "en":"Bouvier des Ardennes",
+    "es":"Boyero de las Árdenas"
+  },
+  {
+    "en":"Bouvier des Flandres",
+    "es":"Boyero de Flandes"
+  },
+  {
+    "en":"Boxer",
+    "es":"Boxer"
+  },
+  {
+    "en":"Boykin Spaniel",
+    "es":"Boykin Spaniel"
+  },
+  {
+    "en":"Brazilian Fila",
+    "es":"Fila Brasileño"
+  },
+  {
+    "en":"Brazilian Terrier",
+    "es":"Terrier Brasileño"
+  },
+  {
+    "en":"Briard",
+    "es":"Briard / Pastor de Brie"
+  },
+  {
+    "en":"Brittany Spaniel",
+    "es":"Bretón Spaniel"
+  },
+  {
+    "en":"Broholmer",
+    "es":"Broholmer / Mastín Danés"
+  },
+  {
+    "en":"Bruno Jura Hound",
+    "es":"Bruno del Jura"
+  },
+  {
+    "en":"Brussels Griffon",
+    "es":"Grifón de Bruselas"
+  },
+  {
+    "en":"Bucovina Shepherd Dog",
+    "es":"Pastor de Bucovina"
+  },
+  {
+    "en":"Bull Terrier",
+    "es":"Bull Terrier"
+  },
+  {
+    "en":"Bull Terrier Miniature",
+    "es":"Bull Terrier Miniatura"
+  },
+  {
+    "en":"Bullmastiff",
+    "es":"Bullmastiff / Mastín Inglés"
+  },
+  {
+    "en":"Bully Kutta / Pakistani Mastiff",
+    "es":"Alangu / Bully Kutta"
+  },
+  {
+    "en":"Burgos Pointer",
+    "es":"Perdiguero de Burgos"
+  },
+  {
+    "en":"Cairn Terrier",
+    "es":"Cairn Terrier"
+  },
+  {
+    "en":"Canaan Dog",
+    "es":"Perro de Canaán"
+  },
+  {
+    "en":"Canadian Eskimo Dog",
+    "es":"Perro Esquimal Canadiense"
+  },
+  {
+    "en":"Canarian Warren Hound",
+    "es":"Podenco Canario"
+  },
+  {
+    "en":"Carolina Dog",
+    "es":"Perro de Carolina / Dingo Americano"
+  },
+  {
+    "en":"Carpathian Shepherd Dog",
+    "es":"Perro de los Cárpatos"
+  },
+  {
+    "en":"Catahoula Cur",
+    "es":"Catahoula Cur"
+  },
+  {
+    "en":"Catalan Sheepdog",
+    "es":"Pastor Catalán"
+  },
+  {
+    "en":"Caucasian Shepherd Dog",
+    "es":"Pastor Caucásico"
+  },
+  {
+    "en":"Cavalier King Charles Spaniel",
+    "es":"Cavalier King Charles Spaniel"
+  },
+  {
+    "en":"Central Asian Shepherd Dog",
+    "es":"Pastor de Asia Central"
+  },
+  {
+    "en":"Cesky Terrier",
+    "es":"Terrier Checo"
+  },
+  {
+    "en":"Chesapeake Bay Retriever",
+    "es":"Chesapeake Bay Retriever"
+  },
+  {
+    "en":"Chihuahua",
+    "es":"Chihuahua"
+  },
+  {
+    "en":"Chilean Fox Terrier",
+    "es":"Fox Terrier Chileno"
+  },
+  {
+    "en":"Chinese Chongqing Dog",
+    "es":"Chongqing Chino"
+  },
+  {
+    "en":"Chinese Crested Dog",
+    "es":"Perro Crestado Chino"
+  },
+  {
+    "en":"Chinese Imperial Dog",
+    "es":"Perro Imperial Chino"
+  },
+  {
+    "en":"Chinese Pug / Dutch Bulldog",
+    "es":"Doguillo / Pug Chino"
+  },
+  {
+    "en":"Chinook",
+    "es":"Chinook"
+  },
+  {
+    "en":"Chippiparai",
+    "es":"Chippiparai"
+  },
+  {
+    "en":"Chow Chow",
+    "es":"Chow Chow"
+  },
+  {
+    "en":"Cierny Sery",
+    "es":"Cierny Sery"
+  },
+  {
+    "en":"Cirneco dell'Etna",
+    "es":"Cirneco del Etna"
+  },
+  {
+    "en":"Clumber Spaniel",
+    "es":"Clumber Spaniel"
+  },
+  {
+    "en":"Collie Rough",
+    "es":"Collie de pelo largo"
+  },
+  {
+    "en":"Collie Smooth",
+    "es":"Collie de pelo corto"
+  },
+  {
+    "en":"Combai",
+    "es":"Combai"
+  },
+  {
+    "en":"Coton de Tuléar",
+    "es":"Coto de Tulear"
+  },
+  {
+    "en":"Cretan Hound",
+    "es":"Podenco de Creta"
+  },
+  {
+    "en":"Croatian Sheepdog",
+    "es":"Pastor Croata"
+  },
+  {
+    "en":"Curly Coated Retriever",
+    "es":"Retriever de Pelo Rizado"
+  },
+  {
+    "en":"Cursinu",
+    "es":"Cursinu"
+  },
+  {
+    "en":"Czechoslovak Wolfdog",
+    "es":"Perro Lobo Checoslovaco"
+  },
+  {
+    "en":"Dalmatian",
+    "es":"Dálmata"
+  },
+  {
+    "en":"Dandie Dinmont Terrier",
+    "es":"Dandie Dinmont Terrier"
+  },
+  {
+    "en":"Doberman",
+    "es":"Doberman"
+  },
+  {
+    "en":"Dog from Castro Laboreiro",
+    "es":"Perro de Castro Laboreiro"
+  },
+  {
+    "en":"Drentsche Partridge Dog",
+    "es":"Perdiguero de Drente"
+  },
+  {
+    "en":"Drever Hound",
+    "es":"Tejonero Sueco"
+  },
+  {
+    "en":"Dutch Schapendoes",
+    "es":"Schapendoes Holandés"
+  },
+  {
+    "en":"Dutch Shepherd Dog",
+    "es":"Pastor Holandés"
+  },
+  {
+    "en":"Dutch Smoushond",
+    "es":"Smous Holandés"
+  },
+  {
+    "en":"East European Shepherd",
+    "es":"Pastor de Europa del Este"
+  },
+  {
+    "en":"East-Siberian Laika",
+    "es":"Laika de Siberia Oriental"
+  },
+  {
+    "en":"Elo",
+    "es":"Elo"
+  },
+  {
+    "en":"English Bulldog",
+    "es":"Bulldog Inglés"
+  },
+  {
+    "en":"English Cocker Spaniel",
+    "es":"Cocker Spaniel Inglés"
+  },
+  {
+    "en":"English Foxhound",
+    "es":"Foxhound Inglés"
+  },
+  {
+    "en":"English Greyhound",
+    "es":"Galgo Inglés"
+  },
+  {
+    "en":"English Mastiff",
+    "es":"Mastín Inglés"
+  },
+  {
+    "en":"English Pointer",
+    "es":"Pointer Inglés"
+  },
+  {
+    "en":"English Setter",
+    "es":"Setter Inglés"
+  },
+  {
+    "en":"English Shepherd Dog",
+    "es":"Pastor Inglés"
+  },
+  {
+    "en":"English Springer Spaniel",
+    "es":"Springer Spaniel Inglés"
+  },
+  {
+    "en":"English Toy Terrier Black and Tan",
+    "es":"Toy Terrier Inglés Negro y Fuego"
+  },
+  {
+    "en":"English Whippet / Snap Dog",
+    "es":"Whippet"
+  },
+  {
+    "en":"Entlebuch Cattle Dog",
+    "es":"Boyero de Entlebuch"
+  },
+  {
+    "en":"Estonian Hound",
+    "es":"Cazador de Estonia"
+  },
+  {
+    "en":"Estrela Mountain Dog",
+    "es":"Perro de la Sierra de la Estrela"
+  },
+  {
+    "en":"Eurasian Dog",
+    "es":"Perro Eurásico"
+  },
+  {
+    "en":"Fawn Brittany Basset",
+    "es":"Basset Leonado de Bretaña"
+  },
+  {
+    "en":"Field Spaniel",
+    "es":"Field Spaniel"
+  },
+  {
+    "en":"Finnish Hound",
+    "es":"Sabueso Finlandés"
+  },
+  {
+    "en":"Finnish Lapphund",
+    "es":"Perro Finlandés de Laponia"
+  },
+  {
+    "en":"Finnish Spitz",
+    "es":"Spitz Finlandés"
+  },
+  {
+    "en":"Flat-Coated Retriever",
+    "es":"Retriever de Pelo Liso"
+  },
+  {
+    "en":"Fox Terrier Smooth",
+    "es":"Fox Terrier de Pelo Liso"
+  },
+  {
+    "en":"Fox Terrier Wire",
+    "es":"Fox Terrier de Pelo Duro"
+  },
+  {
+    "en":"French Bulldog",
+    "es":"Bulldog Francés"
+  },
+  {
+    "en":"French Pointer",
+    "es":"Braco Francés"
+  },
+  {
+    "en":"French Spaniel",
+    "es":"Spaniel Francés"
+  },
+  {
+    "en":"French Tricolour Hound ",
+    "es":"Sabueso Francés tricolor"
+  },
+  {
+    "en":"French White and Black Hound",
+    "es":"Sabueso Francés blanco y negro"
+  },
+  {
+    "en":"French White and Orange Hound",
+    "es":"Sabueso Francés blanco y naranja"
+  },
+  {
+    "en":"Frisian Pointing Dog",
+    "es":"Perdiguero Frisón"
+  },
+  {
+    "en":"Frisian Water Dog",
+    "es":"Perro de Agua Frisón"
+  },
+  {
+    "en":"Gascon Saintongeois",
+    "es":"Gascon Saintongeois"
+  },
+  {
+    "en":"German Bracke",
+    "es":"Sabueso Alemán"
+  },
+  {
+    "en":"German Hunting Terrier",
+    "es":"Terrier Cazador Alemán"
+  },
+  {
+    "en":"German Longhaired Pointer",
+    "es":"Braco Alemán de Pelo Largo"
+  },
+  {
+    "en":"German Pinscher",
+    "es":"Pinscher Alemán"
+  },
+  {
+    "en":"German Shepherd Dog",
+    "es":"Pastor Alemán"
+  },
+  {
+    "en":"German Shorthaired Pointer",
+    "es":"Braco Alemán de Pelo Corto"
+  },
+  {
+    "en":"German Spaniel",
+    "es":"Perdiguero Alemán"
+  },
+  {
+    "en":"German Spitz",
+    "es":"Spitz Alemán"
+  },
+  {
+    "en":"German Wirehaired Pointer",
+    "es":"Braco Alemán de Pelo Duro"
+  },
+  {
+    "en":"Giant Schnauzer",
+    "es":"Schnauzer Gigante"
+  },
+  {
+    "en":"Golden Retriever",
+    "es":"Golden Retriever"
+  },
+  {
+    "en":"Gordon Setter",
+    "es":"Setter Gordon"
+  },
+  {
+    "en":"Grand Basset Griffon Vendéen",
+    "es":"Basset Grifón Vendeano Grande"
+  },
+  {
+    "en":"Grand Griffon Vendéen",
+    "es":"Gran Grifón Vendeano"
+  },
+  {
+    "en":"Great Anglo-French Tricolour Hound",
+    "es":"Gran Sabueso Anglo-Francés Tricolor"
+  },
+  {
+    "en":"Great Anglo-French White and Black Hound",
+    "es":"Gran Sabueso Anglo-Francés Blanco y Negro"
+  },
+  {
+    "en":"Great Anglo-French White and Orange Hound",
+    "es":"Gran Sabueso Anglo-Francés Blanco y Naranja"
+  },
+  {
+    "en":"Great Dane / German Mastiff",
+    "es":"Gran Danés / Dogo Alemán"
+  },
+  {
+    "en":"Great Gascony Blue",
+    "es":"Gran Sabueso Azul de Gascuña"
+  },
+  {
+    "en":"Great Swiss Mountain Dog)",
+    "es":"Gran Boyero Suizo"
+  },
+  {
+    "en":"Grey Norwegian Elkhound",
+    "es":"Elkhound Noruego Gris / Cazador de Alces Gris Noruego"
+  },
+  {
+    "en":"Griffon Fauve de Bretagne",
+    "es":"Grifón Leonado de Bretaña"
+  },
+  {
+    "en":"Griffon Nivernais",
+    "es":"Grifón del Nivernais"
+  },
+  {
+    "en":"Hamiltonstövare / Hamilton Hound",
+    "es":"Sabueso de Hamilton"
+  },
+  {
+    "en":"Hanoverian Scenthound",
+    "es":"Rastreador de Hannover"
+  },
+  {
+    "en":"Harrier",
+    "es":"Harrier"
+  },
+  {
+    "en":"Havanese",
+    "es":"Bichón Habanero"
+  },
+  {
+    "en":"Hellenic Hound / Greek Harehound",
+    "es":"Sabueso Helénico / Sabueso Griego"
+  },
+  {
+    "en":"Himalayan Sheepdog",
+    "es":"Pastor del Himalaya"
+  },
+  {
+    "en":"Hokkaido",
+    "es":"Hokkaïdo"
+  },
+  {
+    "en":"Hortaya Borzaya / Eastern Greyhound",
+    "es":"Hortaya Borzaya / Galgo del Este"
+  },
+  {
+    "en":"Hovawart",
+    "es":"Hovawart"
+  },
+  {
+    "en":"Hungarian Greyhound",
+    "es":"Lebrel Húngaro / Galgo Húngaro"
+  },
+  {
+    "en":"Hungarian Kuvasz",
+    "es":"Kuvasz Húngaro"
+  },
+  {
+    "en":"Hungarian Mudi",
+    "es":"Mudi Húngaro"
+  },
+  {
+    "en":"Hungarian Puli",
+    "es":"Puli Húngaro"
+  },
+  {
+    "en":"Hungarian Pumi",
+    "es":"Pumi Húngaro"
+  },
+  {
+    "en":"Hungarian Short-Haired Pointer",
+    "es":"Braco Húngaro de Pelo Corto"
+  },
+  {
+    "en":"Hungarian Wire-haired Pointer",
+    "es":"Braco Húngaro de Pelo Duro"
+  },
+  {
+    "en":"Huntaway / New Zealand Sheepdog",
+    "es":"Pastor Neozelandés"
+  },
+  {
+    "en":"Hygenhund",
+    "es":"Hygenhund"
+  },
+  {
+    "en":"Ibizan Hound",
+    "es":"Podenco Ibicenco"
+  },
+  {
+    "en":"Icelandic Sheepdog",
+    "es":"Pastor Islandés"
+  },
+  {
+    "en":"Indian Pariah Dog",
+    "es":"Pariah Indio"
+  },
+  {
+    "en":"Indian Spitz",
+    "es":"Spitz Indio"
+  },
+  {
+    "en":"Irish Glen of Imaal Terrier",
+    "es":"Terrier Glen de Imaal Irlandés"
+  },
+  {
+    "en":"Irish Red and White Setter",
+    "es":"Setter Irlandés Rojo y Blanco"
+  },
+  {
+    "en":"Irish Red Setter",
+    "es":"Setter Irlandés Rojo"
+  },
+  {
+    "en":"Irish Water Spaniel",
+    "es":"Perro de Agua Irlandés"
+  },
+  {
+    "en":"Irish Wolfhound",
+    "es":"Lebrel Irlandés / Lobero Irlandés"
+  },
+  {
+    "en":"Istrian Short-Haired Scent Hound",
+    "es":"Sabueso de Istria de Pelo Corto"
+  },
+  {
+    "en":"Istrian Wire-Haired Scent Hound",
+    "es":"Sabueso de Istria de Pelo Duro"
+  },
+  {
+    "en":"Italian Corso Dog",
+    "es":"Mastín Italiano"
+  },
+  {
+    "en":"Italian Greyhound",
+    "es":"Pequeño Lebrel Italiano / Galgo Italiano"
+  },
+  {
+    "en":"Italian Hound",
+    "es":"Sabueso Italiano"
+  },
+  {
+    "en":"Italian Pointer",
+    "es":"Braco Italiano"
+  },
+  {
+    "en":"Italian Volpino",
+    "es":"Volpino Italiano"
+  },
+  {
+    "en":"Jack Russell Terrier",
+    "es":"Jack Russell Terrier"
+  },
+  {
+    "en":"Jämthund / Swedish Elkhound",
+    "es":"Cazador de Alces Sueco"
+  },
+  {
+    "en":"Japanese Chin",
+    "es":"Spaniel Japonés"
+  },
+  {
+    "en":"Japanese Spitz",
+    "es":"Spitz Japonés"
+  },
+  {
+    "en":"Japanese Terrier",
+    "es":"Terrier Japonés"
+  },
+  {
+    "en":"Kai Ken",
+    "es":"Kai Ken"
+  },
+  {
+    "en":"Kaikadi",
+    "es":"Kaikadi"
+  },
+  {
+    "en":"Kangal Dog",
+    "es":"Kangal"
+  },
+  {
+    "en":"Kanni",
+    "es":"Kanni"
+  },
+  {
+    "en":"Karakachan Dog",
+    "es":"Karakachan / Pastor Búlgaro"
+  },
+  {
+    "en":"Karelian Bear Dog",
+    "es":"Perro de Osos de Carelia"
+  },
+  {
+    "en":"Karst Shepherd",
+    "es":"Pastor de Karst"
+  },
+  {
+    "en":"Kerry Beagle",
+    "es":"Kerry Beagle"
+  },
+  {
+    "en":"Kerry Blue Terrier",
+    "es":"Kerry Blue Terrier"
+  },
+  {
+    "en":"Khortals Griffon",
+    "es":"Grifón Khortals"
+  },
+  {
+    "en":"King Charles Spaniel",
+    "es":"King Charles Spaniel"
+  },
+  {
+    "en":"King Shepherd",
+    "es":"Pastor Rey"
+  },
+  {
+    "en":"Kintamani",
+    "es":"Kintamani"
+  },
+  {
+    "en":"Kishu",
+    "es":"Kishu"
+  },
+  {
+    "en":"Komondor / Hungarian Sheepdog",
+    "es":"Komondor / Pastor Húngaro"
+  },
+  {
+    "en":"Kooikerhundje / Kooiker Hound",
+    "es":"Kooikerhundje / Spaniel Holandés"
+  },
+  {
+    "en":"Koolie / Coolie",
+    "es":"Koolie / Coolie"
+  },
+  {
+    "en":"Korean Jindo Dog",
+    "es":"Perro de Chindo / Perro de Jindo"
+  },
+  {
+    "en":"Kromfohrländer",
+    "es":"Kromfohrländer"
+  },
+  {
+    "en":"Kumaon Mastiff",
+    "es":"Mastín de Kumaon"
+  },
+  {
+    "en":"Kunming Wolfdog",
+    "es":"Perro Lobo de Kunming"
+  },
+  {
+    "en":"Kyi-Leo",
+    "es":"Kyi-Leo"
+  },
+  {
+    "en":"Labrador Retriever",
+    "es":"Labrador Retriever"
+  },
+  {
+    "en":"Lakeland Terrier",
+    "es":"Lakeland Terrier"
+  },
+  {
+    "en":"Lancashire Heeler",
+    "es":"Lancashire Heeler"
+  },
+  {
+    "en":"Landseer",
+    "es":"Landseer"
+  },
+  {
+    "en":"Lapponian Herder",
+    "es":"Pastor Finlandés de Laponia"
+  },
+  {
+    "en":"Large Munsterlander",
+    "es":"Gran Münsterländer"
+  },
+  {
+    "en":"Leonberger",
+    "es":"Leonberger"
+  },
+  {
+    "en":"Lhasa Apso",
+    "es":"Lhasa Apso"
+  },
+  {
+    "en":"Lithuanian Hound",
+    "es":"Sabueso de Lituania / Podenco de Lituania"
+  },
+  {
+    "en":"Little Lion Dog",
+    "es":"Pequeño Perro León"
+  },
+  {
+    "en":"Longhaired Whippet",
+    "es":"Whippet de Pelo Largo"
+  },
+  {
+    "en":"Mahratta Greyhound",
+    "es":"Lebrel de Mahratta / Galgo de Mahratta"
+  },
+  {
+    "en":"Majorca Mastiff",
+    "es":"Presa Mallorquín / Dogo Mallorquín"
+  },
+  {
+    "en":"Maltese",
+    "es":"Bichón Maltés"
+  },
+  {
+    "en":"Manchester Terrier",
+    "es":"Manchester Terrier"
+  },
+  {
+    "en":"Maremma and the Abruzzes Sheepdog",
+    "es":"Pastor de la Maremma y de los Abruzos"
+  },
+  {
+    "en":"McNab Shepherd",
+    "es":"Pastor McNab"
+  },
+  {
+    "en":"Medium Griffon Vendeen",
+    "es":"Briquet Grifón Vendeano"
+  },
+  {
+    "en":"Miniature American Shepherd",
+    "es":"Pastor Americano Miniatura"
+  },
+  {
+    "en":"Miniature Australian Shepherd",
+    "es":"Pastor Australiano Miniatura"
+  },
+  {
+    "en":"Miniature Fox Terrier",
+    "es":"Fox Terrier Miniatura"
+  },
+  {
+    "en":"Miniature Pinscher",
+    "es":"Pinscher Miniatura"
+  },
+  {
+    "en":"Miniature Schnauzer",
+    "es":"Schnauzer Miniatura"
+  },
+  {
+    "en":"Miniature Shar Pei",
+    "es":"Shar Pei Miniatura"
+  },
+  {
+    "en":"Montenegrin Mountain Hound",
+    "es":"Sabueso de Montaña de Montenegro"
+  },
+  {
+    "en":"Moscow Watchdog",
+    "es":"Perro Guardían de Moscú"
+  },
+  {
+    "en":"Mountain Cur",
+    "es":"Cur de Montaña"
+  },
+  {
+    "en":"Mucuchies / Paramo's Dog",
+    "es":"Mucuchíes / Perro de los Páramos"
+  },
+  {
+    "en":"Mudhol Hound",
+    "es":"Perro de Mudhol"
+  },
+  {
+    "en":"Neapolitan Mastiff",
+    "es":"Mastín Napolitano"
+  },
+  {
+    "en":"New Zealand Heading Dog",
+    "es":"Perro Guía Neozelandés"
+  },
+  {
+    "en":"Newfoundland",
+    "es":"Terranova"
+  },
+  {
+    "en":"Norfolk Terrier",
+    "es":"Terrier de Norfolk"
+  },
+  {
+    "en":"Norrbottenspitz",
+    "es":"Spitz de Norrbotten"
+  },
+  {
+    "en":"Northern Inuit Dog",
+    "es":"Northern Inuit / Inuit del Norte"
+  },
+  {
+    "en":"Norwegian Buhund",
+    "es":"Buhund Noruego"
+  },
+  {
+    "en":"Norwegian Hound",
+    "es":"Ssabueso Noruego"
+  },
+  {
+    "en":"Norwegian Lundehund",
+    "es":"Lundehund Noruego"
+  },
+  {
+    "en":"Norwich Terrier",
+    "es":"Norwich Terrier"
+  },
+  {
+    "en":"Nova Scotia Duck Tolling Retriever ",
+    "es":"Retriever de Nueva Escocia"
+  },
+  {
+    "en":"Old Croatian Sighthound",
+    "es":"Lebrel Croata / Galgo Croata"
+  },
+  {
+    "en":"Old Danish Pointer",
+    "es":"Antiguo Pointer Danés"
+  },
+  {
+    "en":"Old English Bulldog",
+    "es":"Antiguo Bulldog Inglés"
+  },
+  {
+    "en":"Old English Sheepdog",
+    "es":"Antiguo Pastor Inglés"
+  },
+  {
+    "en":"Old English Terrier",
+    "es":"Antiguo Terrier Inglés"
+  },
+  {
+    "en":"Old German Shepherd Dog",
+    "es":"Pastor Alemán de Pelo Largo"
+  },
+  {
+    "en":"Old Spanish Pointer",
+    "es":"Perdiguero Navarro / Pachón Navarro"
+  },
+  {
+    "en":"Old Time Farm Shepherd",
+    "es":"Antiguo Pastor de Granja"
+  },
+  {
+    "en":"Otterhound",
+    "es":"Otterhound / Perro de Nutria"
+  },
+  {
+    "en":"Pandikona",
+    "es":"Pandikona"
+  },
+  {
+    "en":"Papillon",
+    "es":"Papillon"
+  },
+  {
+    "en":"Parson Russell Terrier",
+    "es":"Parson Russell Terrier"
+  },
+  {
+    "en":"Patterdale Terrier",
+    "es":"Patterdale Terrier"
+  },
+  {
+    "en":"Pekingese",
+    "es":"Pekinés"
+  },
+  {
+    "en":"Peruvian Hairless Dog",
+    "es":"Perro sin Pelo del Per�"
+  },
+  {
+    "en":"Petit Basset Griffon Vendeen",
+    "es":"Basset Grifón Vendeano Pequeño"
+  },
+  {
+    "en":"Phalène",
+    "es":"Phalène"
+  },
+  {
+    "en":"Pharao Hound",
+    "es":"Perro del Faraón"
+  },
+  {
+    "en":"Phu Quoc Ridgeback Dog",
+    "es":"Perro Crestado de Phu Quoc"
+  },
+  {
+    "en":"Picardy Sheepdog / Berger Picard",
+    "es":"Pastor de Picardía / Berger Picard"
+  },
+  {
+    "en":"Picardy Spaniel",
+    "es":"Spaniel de Picardía"
+  },
+  {
+    "en":"Plott Hound",
+    "es":"Plott Hound"
+  },
+  {
+    "en":"Polish Greyhound",
+    "es":"Lebrel Polaco / Galgo Polaco"
+  },
+  {
+    "en":"Polish Hound",
+    "es":"Sabueso Polaco"
+  },
+  {
+    "en":"Polish Hunting Dog",
+    "es":"Perro de Caza Polaco"
+  },
+  {
+    "en":"Polish Lowland Sheepdog",
+    "es":"Pastor Polaco de las Llanuras"
+  },
+  {
+    "en":"Polish Tatra Sheepdog",
+    "es":"Pastor Polaco de Podhale"
+  },
+  {
+    "en":"Pomeranian",
+    "es":"Pomeranian"
+  },
+  {
+    "en":"Pont-Audemer Spaniel",
+    "es":"Spaniel de Pont-Audemer"
+  },
+  {
+    "en":"Poodle",
+    "es":"Caniche"
+  },
+  {
+    "en":"Porcelaine",
+    "es":"Porcelaine / Porcelana"
+  },
+  {
+    "en":"Portuguese Pointer",
+    "es":"Perdiguero Portugués"
+  },
+  {
+    "en":"Portuguese Sheepdog",
+    "es":"Pastor Portugués"
+  },
+  {
+    "en":"Portuguese Warren Hound",
+    "es":"Podenco Portugués"
+  },
+  {
+    "en":"Portuguese Water Dog",
+    "es":"Perro de Agua Portugués"
+  },
+  {
+    "en":"Posavac Hound",
+    "es":"Sabueso del Valle de Save"
+  },
+  {
+    "en":"Prague Ratter",
+    "es":"Ratonero Checo"
+  },
+  {
+    "en":"Presa Canario / Canary Dog",
+    "es":"Presa Canario / Dogo Canario"
+  },
+  {
+    "en":"Pudelpointer",
+    "es":"Pudelpointer"
+  },
+  {
+    "en":"Puerto Rican Mastiff",
+    "es":"Gran Mastín Borincano"
+  },
+  {
+    "en":"Pungsan Dog",
+    "es":"Pungsan"
+  },
+  {
+    "en":"Pyrenean Mastiff",
+    "es":"Mastín de los Pirineos"
+  },
+  {
+    "en":"Pyrenean Mountain Dog",
+    "es":"Perro de Montaña de los Pirineos"
+  },
+  {
+    "en":"Pyrenean Shepherd",
+    "es":"Pastor de los Pirineos de Pelo Largo"
+  },
+  {
+    "en":"Rafeiro of Alentejo",
+    "es":"Rafeiro del Alentejo"
+  },
+  {
+    "en":"Rajapalayam Hound",
+    "es":"Perro de Rajapalayam"
+  },
+  {
+    "en":"Rampur Greyhound",
+    "es":"Lebrel de Rampur / Galgo de Rampur"
+  },
+  {
+    "en":"Rat Terrier",
+    "es":"Rat Terrier"
+  },
+  {
+    "en":"Redbone Coonhound",
+    "es":"Redbone Coonhound"
+  },
+  {
+    "en":"Rhodesian Ridgeback",
+    "es":"Perro Crestado Rodesiano"
+  },
+  {
+    "en":"Romagna Water Dog",
+    "es":"Perro de Agua de Romagna"
+  },
+  {
+    "en":"Romanian Miriotic Shepherd Dog",
+    "es":"Pastor Rumano de Mioritza"
+  },
+  {
+    "en":"Rottweiler",
+    "es":"Rottweiler"
+  },
+  {
+    "en":"Russian Spaniel",
+    "es":"Spaniel Ruso"
+  },
+  {
+    "en":"Russian Toy",
+    "es":"Pequeño Perro Ruso"
+  },
+  {
+    "en":"Russian-European Laika",
+    "es":"Laika Ruso-Europeo"
+  },
+  {
+    "en":"Saarloos Wolfdog",
+    "es":"Perro Lobo de Saarloos"
+  },
+  {
+    "en":"Saint-Usuge Spaniel",
+    "es":"Saint-Usuge Spaniel"
+  },
+  {
+    "en":"Sakhalin Husky",
+    "es":"Husky de Sajalín"
+  },
+  {
+    "en":"Saluki",
+    "es":"Saluki"
+  },
+  {
+    "en":"Samoyed",
+    "es":"Samoyedo"
+  },
+  {
+    "en":"São Miguel Cattle Dog",
+    "es":"Fila de San Miguel"
+  },
+  {
+    "en":"Sapsali",
+    "es":"Sapsali"
+  },
+  {
+    "en":"Scanian Terrier",
+    "es":"Terrier de Scania"
+  },
+  {
+    "en":"Schiller Hound",
+    "es":"Sabueso de Schiller"
+  },
+  {
+    "en":"Schipperke",
+    "es":"Schipperke"
+  },
+  {
+    "en":"Scotch Collie",
+    "es":"Collie Escocés"
+  },
+  {
+    "en":"Scottish Deerhound",
+    "es":"Lebrel Escocés / Galgo Escocés"
+  },
+  {
+    "en":"Scottish Terrier",
+    "es":"Terrier Escocés"
+  },
+  {
+    "en":"Sealyham Terrier",
+    "es":"Sealyham Terrier"
+  },
+  {
+    "en":"Seppala Siberian Sleddog",
+    "es":"Perro de Trineo Siberiano de Seppala"
+  },
+  {
+    "en":"Serbian Hound",
+    "es":"Sabueso Serbio"
+  },
+  {
+    "en":"Serbian Tricolour Hound",
+    "es":"Sabueso Tricolor Serbio"
+  },
+  {
+    "en":"Shar Pei",
+    "es":"Shar Pei"
+  },
+  {
+    "en":"Shetland Sheepdog",
+    "es":"Pastor de Shetland"
+  },
+  {
+    "en":"Shiba Inu",
+    "es":"Shiba Inu"
+  },
+  {
+    "en":"Shih Tzu",
+    "es":"Shih Tzu"
+  },
+  {
+    "en":"Shikoku",
+    "es":"Shikoku"
+  },
+  {
+    "en":"Shiloh Shepherd Dog",
+    "es":"Pastor de Shiloh"
+  },
+  {
+    "en":"Siberian Husky",
+    "es":"Husky Siberiano"
+  },
+  {
+    "en":"Silken Windhound",
+    "es":"Silken Windhound"
+  },
+  {
+    "en":"Sinhala Hound",
+    "es":"Perro de Shinala"
+  },
+  {
+    "en":"Skye Terrier",
+    "es":"Skye Terrier"
+  },
+  {
+    "en":"Sloughi / Berber Greyhound",
+    "es":"Sloughi / Lebrel Árabe"
+  },
+  {
+    "en":"Slovakian Chuvach",
+    "es":"Tchuvatch Eslovaco"
+  },
+  {
+    "en":"Slovakian Hound",
+    "es":"Sabueso Eslovaco / Cazador Eslovaco"
+  },
+  {
+    "en":"Slovakian Rough-Haired Pointer",
+    "es":"Braco Eslovaco de Pelo Duro"
+  },
+  {
+    "en":"Smaland hound",
+    "es":"Sabueso de Smaland / Cazador de Smaland"
+  },
+  {
+    "en":"Small Bernese Hound",
+    "es":"Pequeño Sabuso Suizo"
+  },
+  {
+    "en":"Small Gascony Blue",
+    "es":"Pequeño Sabueso Azul de Gascuña"
+  },
+  {
+    "en":"Small Greek Domestic Dog",
+    "es":"Pequeño Perro Griego Doméstico"
+  },
+  {
+    "en":"Small Munsterlander",
+    "es":"Pequeño Münsterländer"
+  },
+  {
+    "en":"Small Swiss Hound",
+    "es":"Sabueso Suizo Pequeño"
+  },
+  {
+    "en":"Soft-Coated Wheaten Terrier",
+    "es":"Terrier Irlandés Trigo de Pelo Suave "
+  },
+  {
+    "en":"South Russian Shepherd Dog",
+    "es":"Pastor de Rusia Meridional"
+  },
+  {
+    "en":"Spanish Alano / Spanish Bulldog",
+    "es":"Alano Español / Bulldog Español"
+  },
+  {
+    "en":"Spanish Greyhound",
+    "es":"Galgo Español"
+  },
+  {
+    "en":"Spanish Hound",
+    "es":"Sabueso Español"
+  },
+  {
+    "en":"Spanish Mastiff",
+    "es":"Mastín Español"
+  },
+  {
+    "en":"Spanish Water Dog",
+    "es":"Perro de Agua Español"
+  },
+  {
+    "en":"Spinone",
+    "es":"Espinone"
+  },
+  {
+    "en":"Sporting Lucas Terrier",
+    "es":"Sporting Lucas Terrier"
+  },
+  {
+    "en":"St. Bernard",
+    "es":"San Bernardo"
+  },
+  {
+    "en":"St.Germain Pointer",
+    "es":"Braco de Saint Germain"
+  },
+  {
+    "en":"Staffordshire Bull Terrier",
+    "es":"Staffordshire Bull Terrier"
+  },
+  {
+    "en":"Standard Schnauzer",
+    "es":"Schnauzer Estándar"
+  },
+  {
+    "en":"Stephens Cur",
+    "es":"Stephens Cur"
+  },
+  {
+    "en":"Styrian Coarse-Haired Hound",
+    "es":"Sabueso Estirio de Pelo Duro"
+  },
+  {
+    "en":"Sussex Spaniel",
+    "es":"Sussex Spaniel"
+  },
+  {
+    "en":"Swedish Lapphund",
+    "es":"Perro Sueco de Laponia"
+  },
+  {
+    "en":"Swedish Vallhund",
+    "es":"Vallhund Sueco / Spitz de los Visigodos"
+  },
+  {
+    "en":"Swiss Hound",
+    "es":"Sabueso Suizo"
+  },
+  {
+    "en":"Taigan",
+    "es":"Taigan"
+  },
+  {
+    "en":"Taiwan Dog",
+    "es":"Perro de Taiwán"
+  },
+  {
+    "en":"Tamaskan Dog",
+    "es":"Tamaskan"
+  },
+  {
+    "en":"Teckel",
+    "es":"Teckel"
+  },
+  {
+    "en":"Teddy Roosevelt Terrier",
+    "es":"Teddy Roosevelt Terrier"
+  },
+  {
+    "en":"Telomian",
+    "es":"Telomian"
+  },
+  {
+    "en":"Tennessee Treeing Brindle",
+    "es":"Tennessee Treeing Brindle"
+  },
+  {
+    "en":"Tenterfield Terrier",
+    "es":"Tenterfield Terrier"
+  },
+  {
+    "en":"Thai Bangkaew Dog",
+    "es":"Bangkaew Tailandés"
+  },
+  {
+    "en":"Thai Ridgeback Dog",
+    "es":"Ridgeback Tailandés"
+  },
+  {
+    "en":"Tibetan Mastiff",
+    "es":"Dogo del Tíbet / Mastín Tibetano"
+  },
+  {
+    "en":"Tibetan Spaniel",
+    "es":"Spaniel Tibetano"
+  },
+  {
+    "en":"Tibetan Terrier",
+    "es":"Terrier Tibetano"
+  },
+  {
+    "en":"Tornjak / Bosnian-Croatian Shepherd Dog",
+    "es":"Tornjak / Pastor de Bosnia y Croacia"
+  },
+  {
+    "en":"Tosa",
+    "es":"Tosa"
+  },
+  {
+    "en":"Toy Fox Terrier",
+    "es":"Toy Fox Terrier"
+  },
+  {
+    "en":"Toy Manchester Terrier",
+    "es":"Toy Manchester Terrier"
+  },
+  {
+    "en":"Transylvanian Hound",
+    "es":"Sabueso de Transilvania / Braco Húngaro"
+  },
+  {
+    "en":"Treeing Cur",
+    "es":"Treeing Cur"
+  },
+  {
+    "en":"Treeing Walker Coonhound",
+    "es":"Treeing Walker Coonhound"
+  },
+  {
+    "en":"Trigg Hound",
+    "es":"Trigg Hound"
+  },
+  {
+    "en":"Tyrolean Hound",
+    "es":"Braco Tirolés / Sabueso del Tirol"
+  },
+  {
+    "en":"Uruguayan Cimarron",
+    "es":"Cimarrón Uruguayo"
+  },
+  {
+    "en":"Valencian Rat-Hunting Dog",
+    "es":"Ratonero Valenciano"
+  },
+  {
+    "en":"Weimaraner",
+    "es":"Braco de Weimar / Weimaraner"
+  },
+  {
+    "en":"Welsh Corgi Cardigan",
+    "es":"Corgi Galés de Cardigan"
+  },
+  {
+    "en":"Welsh Corgi Pembroke",
+    "es":"Corgi Galés de Pembroke"
+  },
+  {
+    "en":"Welsh Sheepdog / Welsh Collie",
+    "es":"Pastor Galés / Collie Galés"
+  },
+  {
+    "en":"Welsh Springer Spaniel",
+    "es":"Springer Spaniel Galés"
+  },
+  {
+    "en":"Welsh Terrier",
+    "es":"Terrier Galés"
+  },
+  {
+    "en":"West Highland White Terrier",
+    "es":"West Highland White Terrier"
+  },
+  {
+    "en":"West Siberian Laika",
+    "es":"Laika de Siberia Occidental"
+  },
+  {
+    "en":"Westphalian Dachsbracke",
+    "es":"Tejonero de Westfalia"
+  },
+  {
+    "en":"White Shepherd Dog",
+    "es":"Pastor Blanco Canadiense"
+  },
+  {
+    "en":"White Swiss Shepherd Dog",
+    "es":"Pastor Blanco Suizo"
+  },
+  {
+    "en":"Wolfsspitz",
+    "es":"Spitz Lobo"
+  },
+  {
+    "en":"Xoloitzcuintle / Mexican Hairless Dog",
+    "es":"Xoloitzcuintle / Perro sin Pelo Mexicano"
+  },
+  {
+    "en":"Yorkshire Terrier",
+    "es":"Yorkshire Terrier"
+  },
+  {
+    "en":"Yugoslavian Shepherd Dog-Sharplanina",
+    "es":"Pastor Yugoslavo de Charplanina"
+  }
+]
